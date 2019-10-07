@@ -10,6 +10,6 @@ end
   "My name is __"
   end
   
-    get '/' do
-  "Hello, World!"
+    get 'hometown' do
+  "My hometown is __"
   end
