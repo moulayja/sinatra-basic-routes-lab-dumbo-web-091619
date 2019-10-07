@@ -9,3 +9,7 @@ end
   get '/' do
   "Hello, World!"
   end
+  
+    get '/' do
+  "Hello, World!"
+  end
